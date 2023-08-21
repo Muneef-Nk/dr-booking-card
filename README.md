@@ -1,4 +1,4 @@
-# dr-booking-card
+# dr-booking-card-ui
 
 A new Flutter project.
 
